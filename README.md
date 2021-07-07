@@ -2,7 +2,7 @@
 
 use this link to preview the website
 
-ucsceasytravels.000webhostapp.com
+http://ucsceasytravels.000webhostapp.com
 
 dummy data for 5 modules
 
